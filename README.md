@@ -1,6 +1,7 @@
 # NumberRiddle---Surya-Anaika-Aakarsh-Aman
 Contributions:
 - Surya Pai: Base code, Comments, Variable Declaration, Multiplication
+- <img width="1095" height="891" alt="image" src="https://github.com/user-attachments/assets/6e38be39-724d-4649-9e23-ec7a680adeec" />
 - Aakarsh Jha: Addition, test case 1 and 2
   
 - Anaika Deshpande: Division, test case 3 and 4
