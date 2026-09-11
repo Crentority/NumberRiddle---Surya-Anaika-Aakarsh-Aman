@@ -12,3 +12,8 @@ Contributions:
 <img width="651" height="633" alt="Screenshot 2026-09-09 at 12 00 02 PM" src="https://github.com/user-attachments/assets/558443e9-4066-4e74-9358-f858c0e1761c" />
 
 - Aman Kolli: Subtraction, test case 5 and 6
+  <img width="701" height="810" alt="image" src="https://github.com/user-attachments/assets/2061be2f-4ec6-4641-b986-5162ee4599ac" />
+
+<img width="688" height="783" alt="image" src="https://github.com/user-attachments/assets/dc8f8839-e9e8-4d02-b636-79eff40a64fa" />
+
+  
